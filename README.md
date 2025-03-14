@@ -41,7 +41,7 @@ Pong is een arcadegame, opnieuw ontwikkeld door **Maurits, David en Mathias**. H
 Pong is an arcade game, redeveloped by **Maurits, David, and Mathias**. It is a simple yet fun game suitable for everyone!  
 
 ## Game Modes  
-- **Against the Computer**: Test your skills against an AI opponent.  
+- **Against the Computer**: Test your skills against a computer.  
 - **Local with Friends**: Play together on a local network.  
 - **Online via the Cloud**: Challenge friends from around the world via the cloud.  
 
