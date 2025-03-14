@@ -1,26 +1,35 @@
 # Pong
 
 ## Over het spel
-Pong is een arcadegame, opnieuw ontwikkeld door **Maurits, David en Mathias**. Het is een eenvoudig maar leuk spel dat geschikt is voor iedereen!
+Pong is een klassieke arcadegame, opnieuw ontwikkeld door **Maurits, David en Mathias**. Het is een eenvoudig maar verslavend spel dat geschikt is voor iedereen!
 
 ## Speelopties
-- **Tegen de computer**: Test je vaardigheden tegen een computer.
-- **Lokaal met vrienden**: Speel samen binnen één netwerk.
-- **Online via de cloud**: Daag je vrienden uit van over de hele wereld en speel via de cloud.
+- **Tegen de computer**: Test je vaardigheden tegen een slimme AI.
+- **Lokaal met vrienden**: Speel samen op één apparaat.
+- **Online via de cloud**: Daag vrienden uit en speel waar je maar wilt.
 
 ## Hoe te spelen
-- Gebruik de Z/S of pas je toetsen aan op de paddle te bewegen.
+- Gebruik de pijltjestoetsen of de muis om je paddle te bewegen.
+- Wees de eerste die een bepaald aantal punten scoort om te winnen!
 
 ## Installatie
 1. Clone de repository:
    ```sh
-   git clone https://github.com/Maurits2906/PongGame.git
+   git clone https://github.com/jouwgebruikersnaam/pong.git
    ```
 2. Navigeer naar de projectmap:
    ```sh
-   cd PongGame
+   cd pong
    ```
-3. Start het spel (Voor te spelen tegen computer):
+3. Start het spel:
    ```sh
    python pong.py
    ```
+
+## Speel in de cloud of in je netwerk
+1. Iemand moet de server starten:
+   ```sh
+   python server.py
+   ```
+2. In de `client.py` moet je het IP-adres van de server instellen.
+3. Start `pong.py` en kies voor **Two Players**.
