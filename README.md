@@ -1,21 +1,20 @@
 # Pong
 
 ## Over het spel
-Pong is een klassieke arcadegame, opnieuw ontwikkeld door **Maurits, David en Mathias**. Het is een eenvoudig maar verslavend spel dat geschikt is voor iedereen!
+Pong is een arcadegame, opnieuw ontwikkeld door **Maurits, David en Mathias**. Het is een eenvoudig maar leuk spel dat geschikt is voor iedereen!
 
 ## Speelopties
-- **Tegen de computer**: Test je vaardigheden tegen een slimme AI.
-- **Lokaal met vrienden**: Speel samen op één apparaat.
-- **Online via de cloud**: Daag vrienden uit en speel waar je maar wilt.
+- **Tegen de computer**: Test je vaardigheden tegen een computer.
+- **Lokaal met vrienden**: Speel samen op binnen een netwerk.
+- **Online via de cloud**: Daag vrienden uit van over de hele wereld via de cloud.
 
 ## Hoe te spelen
-- Gebruik de pijltjestoetsen of de muis om je paddle te bewegen.
-- Wees de eerste die een bepaald aantal punten scoort om te winnen!
+- Gebruik de Z/S of pas uw instellingen aan om de paddle aan te passen.
 
 ## Installatie
 1. Clone de repository:
    ```sh
-   git clone https://github.com/jouwgebruikersnaam/pong.git
+   git clone https://github.com/Maurits2906/PongGame.git
    ```
 2. Navigeer naar de projectmap:
    ```sh
