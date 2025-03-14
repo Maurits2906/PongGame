@@ -33,7 +33,7 @@ Pong is een arcadegame, opnieuw ontwikkeld door **Maurits, David en Mathias**. H
 2. In de `client.py` moet je het IP-adres van de server instellen.
 3. Start `pong.py` en kies voor **Two Players**.
 
-#Pong English
+# Pong English
 
 ## About the Game  
 Pong is an arcade game, redeveloped by **Maurits, David, and Mathias**. It is a simple yet fun game suitable for everyone!  
